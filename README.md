@@ -1,4 +1,4 @@
-# 🚀 Tugas Besar: Sistem Pendaftaran Tryout
+![DFD Lvl 1 Sistem Pendaftaran TO](https://github.com/user-attachments/assets/41cabd29-6082-4b02-a8e6-4d098d0d83a3)# 🚀 Tugas Besar: Sistem Pendaftaran Tryout
 
 > **Dosen Pengampu:** Muhammad Shiddiq Azis, S.T., MBA
 
@@ -11,7 +11,7 @@
 *Diagram Konteks yang menunjukkan aliran data global.*
 
 ### DFD Level 1
-![DFD Level 1](path/ke/gambar/dfd1.png)
+![DFD Lvl 1 Sistem Pendaftaran TO](https://github.com/user-attachments/assets/cc02e8ef-3c63-44ec-81b9-39126e2ba1f4)
 *Detail proses bisnis dan integrasi database.*
 
 ---
