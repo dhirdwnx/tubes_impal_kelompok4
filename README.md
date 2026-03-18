@@ -1,4 +1,4 @@
-![DFD Lvl 1 Sistem Pendaftaran TO](https://github.com/user-attachments/assets/41cabd29-6082-4b02-a8e6-4d098d0d83a3)# 🚀 Tugas Besar: Sistem Pendaftaran Tryout
+# 🚀 Tugas Besar: Sistem Pendaftaran Tryout
 
 > **Dosen Pengampu:** Muhammad Shiddiq Azis, S.T., MBA
 
