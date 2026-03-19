@@ -21,7 +21,7 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna.
 
 | Login Page | Dashboard | Core Feature |
 | :---: | :---: | :---: |
-| ![Login](assets/login.png) | ![Dash](assets/dash.png) | ![Feature](assets/feature.png) |
+| ![Login](assets/login.png) | ![Halaman Dashboard (Leaderboard) Sistem Pendaftaran TO](https://github.com/user-attachments/assets/38c30448-5436-48fd-bded-3546ba359dfb) | ![Feature](assets/feature.png) |
 
 ---
 
